@@ -1,4 +1,6 @@
-//CAML and Google Charts
+//Using CAML and Google Charts
+//Using SharePoint lists as data to graph Google Charts.
+//Created by Austin Lau
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <!--BEGIN - GOOGLE CHARTS-->
