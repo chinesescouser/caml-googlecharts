@@ -112,7 +112,6 @@ google.charts.setOnLoadCallback(function(){
         
  $(document).ready(function() {
 
-        var dataWebPartId = '{XXXX-XXXX}';   // WebPart ID
         PrePurchasedList();
         getTransactionListValues();
  
